@@ -1,1 +1,14 @@
+C:\Users\arthu\Desktop\projects\back\picpaysimplificado\picpaysimplificado\src\main\java\com\example\picpaysimplificado\services\UserService.java
+C:\Users\arthu\Desktop\projects\back\picpaysimplificado\picpaysimplificado\src\main\java\com\example\picpaysimplificado\dtos\UserDTO.java
 C:\Users\arthu\Desktop\projects\back\picpaysimplificado\picpaysimplificado\src\main\java\com\example\picpaysimplificado\PicpaysimplificadoApplication.java
+C:\Users\arthu\Desktop\projects\back\picpaysimplificado\picpaysimplificado\src\main\java\com\example\picpaysimplificado\dtos\TransactionDTO.java
+C:\Users\arthu\Desktop\projects\back\picpaysimplificado\picpaysimplificado\src\main\java\com\example\picpaysimplificado\services\NotificationService.java
+C:\Users\arthu\Desktop\projects\back\picpaysimplificado\picpaysimplificado\src\main\java\com\example\picpaysimplificado\dtos\NotificationDTO.java
+C:\Users\arthu\Desktop\projects\back\picpaysimplificado\picpaysimplificado\src\main\java\com\example\picpaysimplificado\infra\AppConfig.java
+C:\Users\arthu\Desktop\projects\back\picpaysimplificado\picpaysimplificado\src\main\java\com\example\picpaysimplificado\domain\user\UserType.java
+C:\Users\arthu\Desktop\projects\back\picpaysimplificado\picpaysimplificado\src\main\java\com\example\picpaysimplificado\services\TransactionService.java
+C:\Users\arthu\Desktop\projects\back\picpaysimplificado\picpaysimplificado\src\main\java\com\example\picpaysimplificado\repositories\UserRepository.java
+C:\Users\arthu\Desktop\projects\back\picpaysimplificado\picpaysimplificado\src\main\java\com\example\picpaysimplificado\domain\user\User.java
+C:\Users\arthu\Desktop\projects\back\picpaysimplificado\picpaysimplificado\src\main\java\com\example\picpaysimplificado\domain\transaction\Transaction.java
+C:\Users\arthu\Desktop\projects\back\picpaysimplificado\picpaysimplificado\src\main\java\com\example\picpaysimplificado\repositories\TransactionRepository.java
+C:\Users\arthu\Desktop\projects\back\picpaysimplificado\picpaysimplificado\src\main\java\com\example\picpaysimplificado\controllers\UserController.java

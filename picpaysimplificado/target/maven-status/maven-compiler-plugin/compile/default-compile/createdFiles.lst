@@ -1,1 +1,8 @@
+com\example\picpaysimplificado\services\TransactionService.class
 com\example\picpaysimplificado\PicpaysimplificadoApplication.class
+com\example\picpaysimplificado\dtos\TransactionDTO.class
+com\example\picpaysimplificado\controllers\UserController.class
+com\example\picpaysimplificado\dtos\NotificationDTO.class
+com\example\picpaysimplificado\services\NotificationService.class
+com\example\picpaysimplificado\infra\AppConfig.class
+com\example\picpaysimplificado\dtos\UserDTO.class
